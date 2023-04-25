@@ -2,7 +2,7 @@
 
 ## Description
 This is the solution for the internship task for Dynatrace. 
-This project contains simple local runnable server which fetches data from http://api.nbp.pl/ and provides three endpoints to get detialed information from this API.
+This project contains simple local runnable server which fetches data from http://api.nbp.pl/ and provides three endpoints to get detailed information from this API.
 
 ## Installation
 
